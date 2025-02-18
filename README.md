@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Markson Marcolino!  
+# 👋 Hello, I'm Markson!  
 
 ## 🛠 About Me  
 I'm a **Data Scientist** with experience in **machine learning, geospatial analysis, and data visualization**. Passionate about **solving complex problems with data**, I have worked on projects ranging from **predictive modeling for student dropout rates** to **geospatial dashboards for large-scale data analysis**.  
