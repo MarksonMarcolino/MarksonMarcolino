@@ -3,7 +3,7 @@
 ## 🛠 About Me  
 I'm a **Data Scientist** with experience in **machine learning, geospatial analysis, and data visualization**. Passionate about **solving complex problems with data**, I have worked on projects ranging from **predictive modeling for student dropout rates** to **geospatial dashboards for large-scale data analysis**.  
 
-I thrive in **data-driven environments**, working with large datasets, optimizing data pipelines, and delivering insights that influence decision-making. Always eager to explore **new technologies** and **collaborate** on impactful projects!  
+I’m data-driven at my core, specializing in working with large datasets, optimizing data pipelines, and delivering insights that shape decision-making. I’m always eager to explore new technologies and collaborate on impactful projects! 
 
 ---
 
