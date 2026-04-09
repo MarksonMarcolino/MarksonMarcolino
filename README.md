@@ -8,15 +8,15 @@
 
 ## About
 
-Brazilian builder based in Madrid. I start companies and ship products.
+Brazilian engineer based in Madrid. Building across telecom, healthcare, and voice AI.
 
-Right now I'm building across three areas: **telecom infrastructure**, **healthcare**, and **voice AI**. Before that I spent 15 years in data engineering, building pipelines, platforms, and teams across education, analytics, and Web3. That background still drives how I think about systems... everything is a data problem if you zoom out far enough.
+15 years shipping data platforms, now shipping full-stack products. Started in data engineering... pipelines, platforms, and teams across education, analytics, and Web3. That background still drives how I think about systems. Everything is a data problem if you zoom out far enough.
 
-I like working across the full stack. Most weeks I'm writing Go one day, Python the next, Vue the day after. I care about things that actually work in production, not just demos. If the pipeline breaks at 3am or the OLT drops its SSH session, that's my problem.
+Most weeks I'm writing Go one day, Python the next, Vue the day after. I care about things that actually work in production, not just demos. If the pipeline breaks at 3am or the OLT drops its SSH session, that's my problem.
 
 ---
 
-## What I'm building
+## What I'm working on
 
 **nanoncore** — Telecom and ISP management platform. Network monitoring, GPON fiber management, equipment provisioning, real-time metrics. Built with a Go API, Vue 3 frontend, and edge agents that talk to OLTs via SNMP and SSH. The kind of software that keeps your internet working.
 
