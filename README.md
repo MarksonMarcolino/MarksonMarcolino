@@ -1,88 +1,78 @@
-# 👋 Hello, I'm Markson!
+# Hey, I'm Markson
 
-## 🛠 About Me
-I'm a **Data Engineer** with experience in **building and automating scalable data platforms and pipelines**. Passionate about **cloud environments (Google Cloud), ELT/ETL workflows, and CI/CD practices**, I focus on delivering robust solutions that ensure **data quality, reliability, and governance**.
-
-I'm data-driven at my core, specializing in working with large datasets, optimizing data pipelines, and enabling data-driven decision-making. I'm always eager to explore new technologies and collaborate on impactful projects!
-
----
-
-## 🚀 Expertise
-
-I specialize in **designing scalable data platforms on Google Cloud** and **developing and automating CI/CD pipelines for data engineering assets**. With **15 years of experience**, I have worked across **education analytics, Web3, and cloud-based platforms**, applying **Python, SQL, and modern data engineering tools** to solve complex problems.
-
-Beyond data engineering, I have extensive experience in **Agile project management** and have successfully **assembled teams from scratch**, introducing **Agile frameworks like Scrum and Kanban**. I have managed **remote and local teams simultaneously**, ensuring smooth execution of projects by implementing **Scrum rituals**, fostering collaboration, and improving team efficiency.
-
-My expertise includes **operationalizing ELT processes with data quality and governance**, leveraging **dbt, Airflow, and cloud-native services** to build reliable data pipelines. I have built **interactive dashboards** using **Metabase, Looker, and Superset**, enabling data-driven decision-making across various domains.
-
-I thrive in **collaborative environments** where data drives innovation. Constantly exploring advancements in **cloud computing, DevOps, and data architecture**, I enjoy solving engineering challenges that create tangible impact.
+![Location](https://img.shields.io/badge/Madrid,%20Spain-333?style=flat-square&logo=googleearth&logoColor=white)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](http://linkedin.com/in/marksonmarcolino/)
+[![Email](https://img.shields.io/badge/markson.marcolino@gmail.com-ff5733?style=flat-square&logo=gmail&logoColor=white)](mailto:markson.marcolino@gmail.com)
 
 ---
 
-## 🚀 Tech Stack
+## About
 
-### 🖥️ Programming & Data Engineering
+Brazilian builder based in Madrid. I start companies and ship products.
+
+Right now I'm building across three areas: **telecom infrastructure**, **healthcare**, and **voice AI**. Before that I spent 15 years in data engineering, building pipelines, platforms, and teams across education, analytics, and Web3. That background still drives how I think about systems... everything is a data problem if you zoom out far enough.
+
+I like working across the full stack. Most weeks I'm writing Go one day, Python the next, Vue the day after. I care about things that actually work in production, not just demos. If the pipeline breaks at 3am or the OLT drops its SSH session, that's my problem.
+
+---
+
+## What I'm building
+
+**nanoncore** — Telecom and ISP management platform. Network monitoring, GPON fiber management, equipment provisioning, real-time metrics. Built with a Go API, Vue 3 frontend, and edge agents that talk to OLTs via SNMP and SSH. The kind of software that keeps your internet working.
+
+**Serena** — Digital platform for palliative care coordination in Brazil. SaaS for hospitals, clinics, and home care teams. Handles clinical assessments (ESAS-r, PPS, PAINAD), medication tracking with opioid conversion, team coordination, family portals, and AI-assisted clinical decisions. Built with FastAPI, Vue 3, PostgreSQL/TimescaleDB, and Claude. LGPD and ANVISA compliant.
+
+**voz** — Self-hosted voice conversational AI for Brazilian Portuguese and Rioplatense Spanish. Pipelined LLM + TTS streaming so the user hears audio before the model finishes thinking. Runs entirely on local hardware. Open source.
+
+---
+
+## Tech Stack
+
+### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### 🔄 Data Pipelines & Orchestration
-![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
+### Backend & APIs
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Go](https://img.shields.io/badge/Go%20stdlib-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![TimescaleDB](https://img.shields.io/badge/TimescaleDB-FDB515?style=for-the-badge&logo=timescale&logoColor=black)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![VictoriaMetrics](https://img.shields.io/badge/VictoriaMetrics-621773?style=for-the-badge&logoColor=white)
+
+### Frontend
+![Vue.js](https://img.shields.io/badge/Vue%203-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![PrimeVue](https://img.shields.io/badge/PrimeVue-41B883?style=for-the-badge&logo=primevue&logoColor=white)
+
+### Data Engineering
 ![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
-![Dataflow](https://img.shields.io/badge/Dataflow-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![Apache Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
+![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=googlebigquery&logoColor=white)
+![Dataflow](https://img.shields.io/badge/Dataflow-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
-### ⚙️ DevOps & CI/CD
+### AI & Voice
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude%20API-191919?style=for-the-badge&logo=anthropic&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
+
+### DevOps & Cloud
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![GitLab CI/CD](https://img.shields.io/badge/GitLab%20CI%2FCD-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
-
-### ☁️ Cloud & Databases
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Google BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Cloud Functions](https://img.shields.io/badge/Cloud%20Functions-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Data Lake](https://img.shields.io/badge/Data%20Lake-00ADD8?style=for-the-badge&logo=databricks&logoColor=white)
-
-### 📊 Data Visualization & BI
-![Metabase](https://img.shields.io/badge/Metabase-509EE3?style=for-the-badge&logo=metabase&logoColor=white)
-![Looker](https://img.shields.io/badge/Looker-4285F4?style=for-the-badge&logo=looker&logoColor=white)
-![Apache Superset](https://img.shields.io/badge/Apache%20Superset-DB3552?style=for-the-badge&logo=apache&logoColor=white)
-![Dremio](https://img.shields.io/badge/Dremio-4A9A62?style=for-the-badge&logo=dremio&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
-![Plotly Dash](https://img.shields.io/badge/Plotly%20Dash-119DFF?style=for-the-badge&logo=plotly&logoColor=white)
+![Oracle Cloud](https://img.shields.io/badge/Oracle%20Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white)
 
 ---
 
-## 📌 Project Management
-
-### 📋 Agile & Workflow Management
-![Agile](https://img.shields.io/badge/Agile-0052CC?style=for-the-badge&logo=agile&logoColor=white)
-![Scrum](https://img.shields.io/badge/Scrum-17A2B8?style=for-the-badge&logo=scrum&logoColor=white)
-![Kanban](https://img.shields.io/badge/Kanban-FF6600?style=for-the-badge&logo=kanban&logoColor=white)
-![Waterfall](https://img.shields.io/badge/Waterfall-0077B5?style=for-the-badge&logo=waterfall&logoColor=white)
-
-### 📌 Tools
-![Trello](https://img.shields.io/badge/Trello-0079BF?style=for-the-badge&logo=trello&logoColor=white)
-![ClickUp](https://img.shields.io/badge/ClickUp-7B68EE?style=for-the-badge&logo=clickup&logoColor=white)
-![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
-![Atlassian](https://img.shields.io/badge/Atlassian-0052CC?style=for-the-badge&logo=atlassian&logoColor=white)
-
----
-
-## 🌍 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](http://linkedin.com/in/marksonmarcolino/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](http://instagram.com/markmarcolino)
-[![Email](https://img.shields.io/badge/Email-markson.marcolino@gmail.com-ff5733?style=for-the-badge&logo=gmail&logoColor=white)](mailto:markson.marcolino@gmail.com)
-
----
-
-📩 **Let's collaborate on data-driven projects!**
-Looking for **new opportunities, collaborations, or discussions on Data Engineering, Cloud Architecture, DevOps, and scalable data solutions** – feel free to reach out!
+Let's build something. Reach out anytime.
